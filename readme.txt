@@ -5,5 +5,4 @@ how are you?
 just so so.
 i'm not fine.
 i'm fine.
-wobuxinchubulai 
-待修复的bug
+在master上所作的修改
